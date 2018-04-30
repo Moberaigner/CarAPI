@@ -10,6 +10,9 @@ gen### Java template
 # Compiled class file
 *.class
 
+#target directory
+target/*
+
 # Log file
 *.log
 
